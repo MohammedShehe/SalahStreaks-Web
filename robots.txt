@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohammedshehe.github.io/SalahStreaks-Web/sitemap.xml
